@@ -1,0 +1,12 @@
+div{
+    background-color: red;
+    font-style: italic;
+    border: 6px solid green;
+}
+.highlight {
+    background-color: blue;
+}
+.highlight2 {
+    background-color: rgb(255, 0, 255);
+}
+ 
